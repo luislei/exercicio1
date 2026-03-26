@@ -13,6 +13,10 @@ static void Main(string[] args)
 
     alunoOperadoresLogicos.Executar();
 
+    exerciciosOperadoresAritmeticos exerciciosOperadoresAritmeticos = new exerciciosOperadoresAritmeticos();
+
+    exerciciosOperadoresAritmeticos.Executar();
+
 }
 
 }   // fim do public class 
